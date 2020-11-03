@@ -6,6 +6,7 @@
     <modules>
         <module>Provide</module>
         <module>Customer</module>
+        <module>Common</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
